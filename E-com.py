@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify #Ecommerece usecase
 
 app = Flask(__name__)
 
